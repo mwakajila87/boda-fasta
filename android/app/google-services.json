@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444033483905",
+    "project_id": "bodafasta-42d35",
+    "storage_bucket": "bodafasta-42d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444033483905:android:ca62776626fc02840db980",
+        "android_client_info": {
+          "package_name": "com.example.boda_fasta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkCFtpBKUg7QHp9ugb5qXgw7T03M4jVqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
