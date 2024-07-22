@@ -1,5 +1,6 @@
+// ignore_for_file: use_build_context_synchronously
+
 import 'package:boda_fasta/customs/buttons.dart';
-import 'package:boda_fasta/screens/home.dart';
 import 'package:boda_fasta/screens/signup.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -77,6 +78,7 @@ class _LogInState extends State<LogIn> {
                   if (val!.isEmpty) {
                     return "Password is required";
                   }
+                  return null;
                 },
               ),
               AuthButton(
